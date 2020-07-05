@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Kiran_project/static/css/main.de68544a.chunk.css",
+    "main.js": "/Kiran_project/static/js/main.a2a3573d.chunk.js",
+    "main.js.map": "/Kiran_project/static/js/main.a2a3573d.chunk.js.map",
+    "runtime-main.js": "/Kiran_project/static/js/runtime-main.33ab33e3.js",
+    "runtime-main.js.map": "/Kiran_project/static/js/runtime-main.33ab33e3.js.map",
+    "static/js/2.da641949.chunk.js": "/Kiran_project/static/js/2.da641949.chunk.js",
+    "static/js/2.da641949.chunk.js.map": "/Kiran_project/static/js/2.da641949.chunk.js.map",
+    "index.html": "/Kiran_project/index.html",
+    "precache-manifest.cca012d53bcc9bac5b504231743ddff6.js": "/Kiran_project/precache-manifest.cca012d53bcc9bac5b504231743ddff6.js",
+    "service-worker.js": "/Kiran_project/service-worker.js",
+    "static/css/main.de68544a.chunk.css.map": "/Kiran_project/static/css/main.de68544a.chunk.css.map",
+    "static/js/2.da641949.chunk.js.LICENSE.txt": "/Kiran_project/static/js/2.da641949.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.33ab33e3.js",
+    "static/js/2.da641949.chunk.js",
+    "static/css/main.de68544a.chunk.css",
+    "static/js/main.a2a3573d.chunk.js"
+  ]
+}
