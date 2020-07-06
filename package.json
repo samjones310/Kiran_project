@@ -2,7 +2,7 @@
   "name": "kiran_ui",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://samjones310.github.io/Kiran_project/",
+  "homepage": "https://samjones310.github.io/Kiran_project/",
   "dependencies": {
     "@material-ui/core": "^4.9.2",
     "@material-ui/icons": "^4.9.1",
