@@ -44,7 +44,7 @@ redirect_dashboard = (imageid,model1,model2,model3,final) =>{
                 fontWeight:600,fontFamily:'Open Sans',textAlign:'center'}}>
                   Done by
                 </Typography> 
-                <Image  src="/Kiran.jpg" width={188} 
+                <Image  src="/Kiran_project/Kiran.jpg" width={188} 
                 height={148}  style={{marginTop:14,marginBottom:10,marginBottom:10}}/>  
                  <Typography  style={{color:'rgb(39, 39, 39)',marginTop:5,fontSize:16,height:20,
                 fontWeight:600,fontFamily:'Open Sans',textAlign:'left',marginLeft:20,width:156}}>
@@ -56,7 +56,7 @@ redirect_dashboard = (imageid,model1,model2,model3,final) =>{
                 fontWeight:600,fontFamily:'Open Sans',textAlign:'center'}}>
                   Done by
                 </Typography> 
-                <Image  src="/Iswarya.jpg" width={148} 
+                <Image  src="/Kiran_project/Iswarya.jpg" width={148} 
                 height={148}  style={{marginTop:14,marginBottom:10,marginBottom:10}}/>  
                  <Typography  style={{color:'rgb(39, 39, 39)',marginTop:5,fontSize:16,height:20,
                 fontWeight:600,fontFamily:'Open Sans',textAlign:'left',marginLeft:20,width:146}}>
@@ -73,7 +73,7 @@ redirect_dashboard = (imageid,model1,model2,model3,final) =>{
                 fontWeight:600,fontFamily:'Open Sans',textAlign:'center'}}>
                   Guide
                 </Typography> 
-                <Image  src="/Sowmiya.jpg" width={148} 
+                <Image  src="/Kiran_project/Sowmiya.jpg" width={148} 
                 height={148}  style={{marginTop:14,marginBottom:10,marginBottom:10}}/>  
                  <Typography  style={{color:'rgb(39, 39, 39)',marginTop:5,fontSize:16,height:20,
                 fontWeight:600,fontFamily:'Open Sans',textAlign:'left',marginLeft:20,width:156}}>
@@ -89,7 +89,7 @@ redirect_dashboard = (imageid,model1,model2,model3,final) =>{
                 fontWeight:600,fontFamily:'Open Sans',textAlign:'center'}}>
                   Co-guide
                 </Typography> 
-                <Image  src="/Gopal.jpg" width={148} 
+                <Image  src="/Kiran_project/Gopal.jpg" width={148} 
                 height={148}  style={{marginTop:14,marginBottom:10,marginBottom:10}}/>  
                  <Typography  style={{color:'rgb(39, 39, 39)',marginTop:5,fontSize:16,height:20,
                 fontWeight:600,fontFamily:'Open Sans',textAlign:'left',marginLeft:20,width:156}}>
@@ -105,7 +105,7 @@ redirect_dashboard = (imageid,model1,model2,model3,final) =>{
                 fontWeight:600,fontFamily:'Open Sans',textAlign:'center'}}>
                   Co-guide
                 </Typography> 
-                <Image  src="/Soman.jpg" width={148} 
+                <Image  src="/Kiran_project/Soman.jpg" width={148} 
                 height={148}  style={{marginTop:14,marginBottom:10,marginBottom:10}}/>  
                 <Typography  style={{color:'rgb(39, 39, 39)',marginTop:5,fontSize:16,height:20,
                 fontWeight:600,fontFamily:'Open Sans',textAlign:'left',marginLeft:20,width:156}}>

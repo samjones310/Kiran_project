@@ -26,10 +26,10 @@ return (
 <div>
   <AppBar position="fixed" style={{ background: 'rgb(255, 255, 255)',height:'100px' }}>
     <Toolbar>
-    <Image alt="Powered by Maverick" src="/Amirtha_logo.jpg"  
+    <Image alt="Powered by Maverick" src="/Kiran_project/Amirtha_logo.jpg"  
         style={{marginTop:21,marginBottom:21}} width="170px" height="57px" />
       
-    <Image alt="Powered by Maverick" src="/Sen_logo.jpg"  
+    <Image alt="Powered by Maverick" src="/Kiran_project/Sen_logo.jpg"  
         style={{marginTop:20,marginLeft:25,marginBottom:20}} width="132px" height="57px" />
 
     <Typography style={{color: 'rgb(30, 30, 30)',fontFamily: 'Open Sans',fontSize: 20,fontWeight: 600
